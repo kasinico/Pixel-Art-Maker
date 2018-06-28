@@ -1,6 +1,7 @@
 # Pixel Art Maker Project
 
 ## Table of Contents
+##my repo https://github.com/kasinico/Pixel-Art-Maker.git
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
